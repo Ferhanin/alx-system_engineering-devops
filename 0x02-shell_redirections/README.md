@@ -1,1 +1,2 @@
-"shell redirection and filters"
+#!/bin/bash
+"shell redirection "
