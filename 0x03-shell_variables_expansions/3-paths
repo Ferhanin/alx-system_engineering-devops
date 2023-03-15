@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $oath | tr "i" "\n" |wc -l"
